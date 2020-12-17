@@ -49,3 +49,13 @@ p {
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+#label{
+    color: skyblue;
+}
+
+.button-success {
+    background: blue;
+    color: white;
+    /* this is a green */
+}
