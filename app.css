@@ -1,0 +1,51 @@
+html {
+    background: url(background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+#menu {
+    background: rgba(255, 255, 255, .5);
+    width: 150px;
+}
+
+#menu a {
+    color: rgb(3, 40, 53);
+    font-weight: bold;
+    
+}
+#menu .pure-menu-heading {
+    background: #920951;
+    font-size: 110%;
+    color: #fff;
+    margin: 0;
+    
+}
+
+#menu .pure-menu li a:hover, 
+#menu .pure-menu li a:focus {
+    background: #00F981;
+}
+p {
+    color: rgb(243, 236, 236);
+    font-weight: bolder;
+}
+
+.content h2 {
+    color: skyblue;
+}
+
+.header {
+    margin: 0;
+    color: skyblue;
+    text-align: center;
+    padding: 2.5em 2em 0;
+    border-bottom: 1px solid #eee;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
