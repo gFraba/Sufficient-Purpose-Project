@@ -53,7 +53,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-<<<<<<< HEAD
+
 #label{
     color: skyblue;
 }
@@ -62,16 +62,22 @@ body {
     background: blue;
     color: white;
     /* this is a green */
-=======
 #button {
     margin: 0;
     position: absolute;
-    left: 50%;
-    -ms-transform: translateX(-50%);
-    transform: translateX(-50%);
+    left: 60%;
+    -ms-transform: translateX(-60%);
+    transform: translateX(-60%);
     background-color: skyblue;
     font-weight: bold;
     
-
->>>>>>> e51ac47ec060688cccac4c328bfffcd45c256cd7
+}
+#button2 {
+    margin: 0;
+    position: absolute;
+    right: 45%;
+    -ms-transform: translateX(-45%);
+    transform: translateX(-45%);
+    background-color: skyblue;
+    font-weight: bold;
 }
