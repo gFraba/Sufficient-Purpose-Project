@@ -53,6 +53,15 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+
+#label{
+    color: skyblue;
+}
+
+.button-success {
+    background: blue;
+    color: white;
+    /* this is a green */
 #button {
     margin: 0;
     position: absolute;
@@ -62,7 +71,6 @@ body {
     background-color: skyblue;
     font-weight: bold;
     
-
 }
 #button2 {
     margin: 0;
