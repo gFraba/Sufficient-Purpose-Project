@@ -56,11 +56,20 @@ body {
 #button {
     margin: 0;
     position: absolute;
-    left: 50%;
-    -ms-transform: translateX(-50%);
-    transform: translateX(-50%);
+    left: 60%;
+    -ms-transform: translateX(-60%);
+    transform: translateX(-60%);
     background-color: skyblue;
     font-weight: bold;
     
 
+}
+#button2 {
+    margin: 0;
+    position: absolute;
+    right: 45%;
+    -ms-transform: translateX(-45%);
+    transform: translateX(-45%);
+    background-color: skyblue;
+    font-weight: bold;
 }
