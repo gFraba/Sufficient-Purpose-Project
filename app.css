@@ -62,22 +62,22 @@ body {
     background: blue;
     color: white;
     /* this is a green */
-#button {
+}
+#button1 {
     margin: 0;
-    position: absolute;
-    left: 60%;
-    -ms-transform: translateX(-60%);
-    transform: translateX(-60%);
+    position: static;
+    left: 20%;
     background-color: skyblue;
     font-weight: bold;
     
 }
 #button2 {
     margin: 0;
-    position: absolute;
-    right: 45%;
+    position: static;
     -ms-transform: translateX(-45%);
     transform: translateX(-45%);
     background-color: skyblue;
     font-weight: bold;
+    
 }
+
