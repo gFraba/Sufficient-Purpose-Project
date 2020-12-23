@@ -15,7 +15,7 @@ function initMap() {
   new google.maps.Marker({
     position: myLatLng,
     map,
-    title: "Drop Off 1!"
+    title: "320 N Lafayette Blvd South Bend, IN 46601"
   });
 }
 

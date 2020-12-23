@@ -15,6 +15,6 @@ function initMap() {
   new google.maps.Marker({
     position: myLatLng,
     map,
-    title: "Drop off 2!"
+    title: "22500 U.S. 20 Business, South Bend, IN 46628, USA"
   });
 }
